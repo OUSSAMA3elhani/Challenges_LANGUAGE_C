@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757254821 source:c:\users\4b\desktop\language-c\2_challenge_11_jour de la semaine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
