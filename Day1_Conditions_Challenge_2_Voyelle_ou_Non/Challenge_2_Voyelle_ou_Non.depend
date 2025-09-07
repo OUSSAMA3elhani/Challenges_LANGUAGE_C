@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756823877 source:c:\users\4b\desktop\language_c\challenge_2_voyelle_ou_non\main.c
+	<stdio.h>
+	<stdlib.h>
+
