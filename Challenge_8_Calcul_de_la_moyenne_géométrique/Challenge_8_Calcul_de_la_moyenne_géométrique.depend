@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1756821360 source:c:\users\4b\desktop\language_c\challenge_8_calcul_de_la_moyenne_géométrique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
