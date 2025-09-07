@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1756828720 source:c:\users\4b\desktop\language_c\day2_challenge_4_equation_du_deuxième_degré\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
