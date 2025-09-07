@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756838630 source:c:\users\4b\desktop\language_c\day6_challenge_6_positif,_négatif_ou_nul\main.c
+	<stdio.h>
+	<stdlib.h>
+
