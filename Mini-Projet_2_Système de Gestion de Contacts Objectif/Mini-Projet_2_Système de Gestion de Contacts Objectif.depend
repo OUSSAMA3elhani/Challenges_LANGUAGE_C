@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757417075 source:c:\users\4b\desktop\language-c\mini-projet_2_système de gestion de contacts objectif\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
