@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757339779 source:c:\users\4b\desktop\language-c\day3_string_challenge_10_trouver un sous-string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
