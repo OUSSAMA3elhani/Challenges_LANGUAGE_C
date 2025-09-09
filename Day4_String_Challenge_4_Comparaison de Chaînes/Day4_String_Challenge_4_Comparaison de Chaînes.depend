@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757327200 source:c:\users\4b\desktop\language-c\day4_string_challenge_4_comparaison de chaînes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
